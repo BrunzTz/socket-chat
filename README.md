@@ -1,6 +1,6 @@
 # Seja bem vindo
 
-## Este projeto é uma atividade solicitada na faculdade Unimar, cujo o objetivo é realizar uma conexão sokcet com server-sid e cliente-side, para isso realizei a criação de chat
+## Este projeto é uma atividade solicitada na faculdade Unimar, cujo o objetivo é realizar uma conexão sokcet com server-side e cliente-side, para isso realizei a criação de chat
 ### Aluno - Bruno Rocha
 ### RA - 1899279
 ### Disciplina - Redes de Computadores
